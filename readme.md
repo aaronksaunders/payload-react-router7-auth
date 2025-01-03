@@ -1,6 +1,9 @@
-# Full-Stack React Router(Remix) + Payload CMS Authentcation Application
+# Full-Stack React Router(Remix) + Payload CMS Authentication Application
 
 A modern, full-stack application template combining React Router v7 for the frontend and Payload CMS for the backend, with SQLite database integration.
+
+## Video
+- https://youtu.be/KGJa08OBlSw
 
 ## Project Structure
 
